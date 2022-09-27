@@ -56,8 +56,4 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
-img {
-    border-radius: 10px;
-    height: 30px;
-    width: 100px;
-  }
+
